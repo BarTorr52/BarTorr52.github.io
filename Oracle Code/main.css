@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://i.imgur.com/0tykmxD.gif?1");
+  background-size: 100% 125%;
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 40px;
+  font-family: monospace;
+}
+p {
+  text-align: center;
+  color: orange;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+}
+iframe {
+  margin-left: 400px;
+}
